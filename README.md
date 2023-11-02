@@ -1,10 +1,13 @@
 # UMLDL - Understanding Machine Learning &amp; Deep Learning
-Author: Trevor Ashby
+**Author**: *Trevor Ashby*
+
+<img src="https://avatars.githubusercontent.com/u/46828580?s=400&u=9579f16fdec88c05f9ac9f280302979daff0f102&v=4" width="200px">
+
 |||
 |--|--|
-|Email|trevor.clark.ashby@gmail.com
-|Github|https://github.com/TrevorAshby/
-|LinkedIn|https://www.linkedin.com/in/trevorashby/
+|**Email**|trevor.clark.ashby@gmail.com
+|**Github**|https://github.com/TrevorAshby/
+|**LinkedIn**|https://www.linkedin.com/in/trevorashby/
 
 ## Purpose
 Machine Learning and Deep Learning have become very complex and expansive fields in recent years. It has become incredibly difficult to find quality resources to understand and implement specific techniques within these fields. The purpose of this repository is to provide quality resources to build foundational knowledge and show implementation techniques about every method in machine learning and deep learning. 
