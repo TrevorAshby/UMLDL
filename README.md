@@ -12,6 +12,15 @@
 ## Purpose
 Machine Learning and Deep Learning have become very complex and expansive fields in recent years. It has become incredibly difficult to find quality resources to understand and implement specific techniques within these fields. The purpose of this repository is to provide quality resources to build foundational knowledge and show implementation techniques about every method in machine learning and deep learning. 
 
+On a more selfish note, another purpose of the repository is for my own personal development and showcasing of my abilities regarding particular machine learning and deep learning techniques.
+
+## Repo Structure & Topical Guide
+This repo follows the following structure: Each implementation/technique is contained within it's own respective folder. 
+
+### Folder Contents
+- README.md: Contained in each of the technique folders. It seeks to explain the concept, where the data was obtained, and further breakdown of items within the folder.
+- /data/: A .zip folder that contains the data that is used for the technique's implementation. The actual data will be gitignored for the sake of saving space.
+
 To prevent you from having to go looking through the file structure, here is a topical guide of the subjects covered in this repository:
 
 ```bash
